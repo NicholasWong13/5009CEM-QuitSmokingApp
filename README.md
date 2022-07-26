@@ -1,5 +1,6 @@
-# Quit Smoking
-A small android application to help smokers to quit smoking. Features:
+# Quit Smoking Android App
+This is aan android application created for 5009CEM Software Development Project to help smokers to quit smoking. 
+Features:
 
 - Slash Screen: Loading page of the Application of the Quit Smoking App.
 - Overview: statistics about when stopped smoking, days not smoked and saved cigarettes, money and time
